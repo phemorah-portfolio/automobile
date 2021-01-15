@@ -17,7 +17,7 @@
 		.banner-arrow:hover {opacity:.8;}
 		.banner-arrow.banner-arrowdn {opacity:.5;}
 		.banner-arrow.banner-arrowds {opacity:.3;pointer-events:none;}
-    </style> 
+    </style>
 
     <!-- Home Slider -->
     <br><br>
@@ -95,7 +95,7 @@
         <div class="row">
             <div class="col-md-7 assembly-container">
                 <h4>ASSEMBLY PLANT</h4>
-                <img src="{{ asset('assets/front_assets/images/assembly/truck_assembly.png') }}" alt="assembly plant" width="400" class="assembly">
+                <img src="{{ asset('assets/front_assets/images/assembly/truck_assembly.png') }}" alt="assembly plant" class="assembly">
             </div>
 
             <div class="col-md-4 news-update">
