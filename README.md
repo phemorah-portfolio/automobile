@@ -1,3 +1,2 @@
 # lsm
-## Lanre Shittu Motors
- 
+## Lanre Shittu Motors update
