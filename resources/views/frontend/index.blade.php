@@ -84,7 +84,7 @@
                 <svg viewbox="0 0 16000 16000" style="position:absolute;top:0;left:0;width:100%;height:100%;">
                     <path class="a" d="M5869,1919l5984.1,5852.7c127.9,125.5,127.9,329.1,0,454.9L5869,14079"></path>
                 </svg>
-            </div>
+            </div> 
         </div>
     </section>
     <!-- Ends Home Slider -->
@@ -95,7 +95,7 @@
         <div class="row">
             <div class="col-md-7 assembly-container">
                 <h4>ASSEMBLY PLANT</h4>
-                <img src="{{ asset('assets/front_assets/images/assembly/truck_assembly.png') }}" alt="assembly plant" class="assembly">
+                <img src="{{ asset('assets/front_assets/images/assembly/truck_assembly.PNG') }}" alt="assembly plant" class="assembly">
             </div>
 
             <div class="col-md-4 news-update">

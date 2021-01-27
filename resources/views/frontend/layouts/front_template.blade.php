@@ -7,10 +7,11 @@
 
     <link rel="stylesheet" href="{{ asset('assets/front_assets/css/style.css') }}">
     <link rel="stylesheet" href="{{ asset('assets/front_assets/css/bootstrap-4.5.2.min.css') }}">
-    
+    <link href="{{ asset('assets/front_assets/images/favicon.png') }}" rel="icon">
+
     <script src="{{ asset('assets/front_assets/js/jquery-3.2.1.min.js') }}" type="text/javascript"></script>
-    
-    <!------ Include the above in your HEAD tag ---------->    
+
+    <!------ Include the above in your HEAD tag ---------->
 </head>
 
 <body>
@@ -42,15 +43,15 @@ s0.parentNode.insertBefore(s1,s0);
         menu.addEventListener('click', function(e) {
             nav.classList.toggle('hide-mobile');
             $('#menu').toggle('hide-menu');
-            e.preventDefault(); 
+            e.preventDefault();
         });
         exit.addEventListener('click', function(e) {
             nav.classList.toggle('hide-mobile');
             $('#menu').toggle('hide-menu');
-            e.preventDefault(); 
+            e.preventDefault();
         });
       </script>
     <!-- End Nav Script -->
-  
+
 </body>
 </html>
