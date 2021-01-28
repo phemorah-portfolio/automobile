@@ -15,7 +15,7 @@
                     <div class="col-md-6 blog-post">
                         <img src="{{ asset('assets/front_assets/images/explore.jpg') }}" alt="">
                         <div class="blog-desc">
-                            <h4>Leopard Hilux</h4>
+                            <h4>Leopard Pickup</h4>
                             <hr>
                             <ul class="flex-wrap">
                                 <li>
@@ -32,7 +32,7 @@
                     <div class="col-md-6 blog-post">
                         <img src="{{ asset('assets/front_assets/images/show-room-cars.jpg') }}" alt="">
                         <div class="blog-desc">
-                            <h4>Black Lexus Jeep</h4>
+                            <h4>Car Showroom</h4>
                             <hr>
                             <ul class="flex-wrap">
                                 <li>
@@ -68,7 +68,7 @@
                     <div class="col-md-6 blog-post">
                         <img src="{{ asset('assets/front_assets/images/assembly/truck_assembly7.png') }}" alt="truck assembly plant">
                         <div class="blog-desc">
-                            <h4>Truck Assembly Plant</h4>
+                            <h4>Car/Pickup Assembly Plant</h4>
                             <hr>
                             <ul class="flex-wrap">
                                 <li>
@@ -87,7 +87,7 @@
                     <div class="col-md-6 blog-post">
                         <img src="{{ asset('assets/front_assets/images/jac_truck.jpg') }}" alt="jac truck">
                         <div class="blog-desc">
-                            <h4>Excavator</h4>
+                            <h4>Jac Tow Truck</h4>
                             <hr>
                             <ul class="flex-wrap">
                                 <li>
@@ -102,9 +102,9 @@
                         </div>
                     </div>
                     <div class="col-md-6 blog-post">
-                        <img src="{{ asset('assets/front_assets/images/excavator.jpg') }}" alt="excavator">
+                        <img src="{{ asset('assets/front_assets/images/products/xcmg_excavator_payloader.jpg') }}" alt="excavator">
                         <div class="blog-desc">
-                            <h4>Truck Assembly Plant</h4>
+                            <h4>XCMG Excavator</h4>
                             <hr>
                             <ul class="flex-wrap">
                                 <li>
