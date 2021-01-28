@@ -37,7 +37,7 @@
                             Our durable vehicles, dependable trucks, reliable equipment, and excellent repairs/maintenance services are for your seamless business operations.
                         </P>
 												<p>
-														Our technical and professional teams are readily available at your request for any further discussion on our wide range of products and services. 
+														Our technical and professional teams are readily available at your request for any further discussion on our wide range of products and services.
 												</p>
                     </section>
                     <br>
@@ -156,7 +156,7 @@
                         </div>
                     </div>
 
-                    <div class="row">
+                    <!-- <div class="row">
                         <div class="col-md-3">
                             <img src="{{ asset('assets/front_assets/images/team/biodun.jpg') }}" alt="abiodun isiaka shittu" />
                         </div>
@@ -166,7 +166,7 @@
                                 He is a seasoned business man with the Midas touch who joined the Company in 1991 and rose to the position of General Manager in 2000 till date. He is a graduate of Agricultural Economics & Extension, from the Lagos State Polytechnic He is exposed and reliable company personnel, with experience in management ethics implementation. His effective and erudite management style is well respected and has contributed to the tremendous growth of the company.
                             </p>
                         </div>
-                    </div>
+                    </div> -->
 
                     <div class="row">
                         <div class="col-md-3">
