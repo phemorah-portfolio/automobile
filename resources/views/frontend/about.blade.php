@@ -55,21 +55,21 @@
                         </p>
                         <h4>Our offers:</h4>
                         <ul>
-                            <li>
+                            <li><p>
                                 * Quality Vehicle and Equipment Sales
-                            </li>
-                            <li>
+                            </p></li>
+                            <li><p>
                                 * Original Equipment Manufacturer Spare Parts and Accessories
-                            </li>
-                            <li>
+                            </p></li>
+                            <li><p>
                                 * Excellent After-Sales Services and Ultra-Modern Workshop
-                            </li>
-                            <li>
+                            </p></li>
+                            <li><p>
                                 * Efficient Mobile Workshop Services and Quick Rescue Vehicles
-                            </li>
-                            <li>
+                            </p></li>
+                            <li><p>
                                 * Training of our Client’s In-house Engineers, Technicians and Drivers
-                            </li>
+                            </p></li>
                         </ul>
                         <p>
                             Our vehicles and equipment are covered by genuine manufacturer’s warranty and supported by proactive maintenance services rather than reactive repair services. Our offices are strategically located and spread across five of the six geopolitical zones of the country, notably Lagos Mainland, Lagos Island, Abuja, Ilorin, Port Harcourt and Kano with the aim of satisfying our customers and exceeding their expectations.
@@ -92,10 +92,10 @@
                         Our Core Values in Lanre Shittu Motors, our core values are:
 
                         <ul>
-                            <li>- Team-work</li>
-                            <li>- Integrity</li>
-                            <li>- Customer Delight</li>
-                            <li>- Accountability</li>
+                            <li><p>- Team-work</p></li>
+                            <li><p>- Integrity</p></li>
+                            <li><p>- Customer Delight</p></li>
+                            <li><p>- Accountability</p></li>
                         </ul>
                     </p>
                 </div>
@@ -109,9 +109,9 @@
 
                  <h3>We achieve this through:</h3>
                      <ul>
-                         <li>* Maintaining high standards of quality when choosing the automobile we offer for sale.</li>
-                         <li>* Consistently improving our pre and after sales services.</li>
-                         <li>* On-time delivery and attention to details.</li>
+                         <li><p>* Maintaining high standards of quality when choosing the automobile we offer for sale.</p></li>
+                         <li><p>* Consistently improving our pre and after sales services.</p></li>
+                         <li><p>* On-time delivery and attention to details.</p></li>
                      </ul>
                      <p>
                         Our name has become synonymous with excellence within and outside the industry and many of our
@@ -187,16 +187,16 @@
                 <div id="subsidiary" class="tab-contents">
                     <strong>Our Subsidiaries</strong> <br><br>
                     <ul>
-                        <li>- LSM Haulage and Logistics Ltd</li>
-                        <li>- LSM Realty Ltd</li>
-                        <li>- Lanre Shittu Motors Nig Ltd</li>
-                        <li>- Lanre Shittu Equipment Nig Ltd</li>
-                        <li>- Lanre Shittu Agro-Allied Industrial Ltd.</li>
-                        <li>- Silverbird Agro-allied Ltd.</li>
-                        <li>- View Sea Ventures</li>
-                        <li>- Mafad & Co.</li>
-                        <li>- Princely Fuels Ltd</li>
-                        <li>- Solvent Bureau De Change—Travels & Tours</li>
+                        <li><p>- LSM Haulage and Logistics Ltd</p></li>
+                        <li><p>- LSM Realty Ltd</p></li>
+                        <li><p>- Lanre Shittu Motors Nig Ltd</p></li>
+                        <li><p>- Lanre Shittu Equipment Nig Ltd</p></li>
+                        <li><p>- Lanre Shittu Agro-Allied Industrial Ltd.</p></li>
+                        <li><p>- Silverbird Agro-allied Ltd.</p></li>
+                        <li><p>- View Sea Ventures</p></li>
+                        <li><p>- Mafad & Co.</p></li>
+                        <li><p>- Princely Fuels Ltd</p></li>
+                        <li><p>- Solvent Bureau De Change—Travels & Tours</p></li>
                     </ul>
                 </div>
                  <!-- Corporate Information -->
@@ -222,23 +222,23 @@
                     <br>
                     <div class="_col-8 _col-md-8">
                         <h3>Statistics</h3>
-                        <ul class="flex-wrap">
-                            <li>• Established on</li>
-                            <li>31st of March 1981</li>
+                        <ul class="flex-wrap-no-space">
+                            <li><p>• Established on</p></li>
+                            <li style="margin-left:15em;"><p>31st of March 1981</p></li>
                         </ul>
-                        <ul class="flex-wrap">
-                            <li>• Incorporated on</li>
-                            <li>3rd of March 1986</li>
-                        </ul>
-                        </ul>
-                        <ul class="flex-wrap">
-                            <li>• Asset Base in excess of</li>
-                            <li>N2.2 Billion Naira</li>
+                        <ul class="flex-wrap-no-space">
+                            <li><p>• Incorporated on</p></li>
+                            <li style="margin-left:14.3em;"><p>3rd of March 1986</p></li>
                         </ul>
                         </ul>
-                        <ul class="flex-wrap">
-                            <li>• Share-Holders fund in excess of</li>
-                            <li>N2.5Billion Naira</li>
+                        <ul class="flex-wrap-no-space">
+                            <li><p>• Asset Base in excess of</p></li>
+                            <li style="margin-left:11.8em;"><p>N2.2 Billion Naira</p></li>
+                        </ul>
+                        </ul>
+                        <ul class="flex-wrap-no-space">
+                            <li><p>• Share-Holders fund in excess of</p></li>
+                            <li style="margin-left:8.3em;"><p>N2.5Billion Naira</p></li>
                         </ul>
                         <p>Sole Distributor of Mack Trucks in Nigeria</p>
                         <p>Sole Distributor of Yutong Buses & Parts in Nigeria</p>
@@ -251,31 +251,31 @@
                             Parts distributor to automobile dealers in Nigeria:
                         </p>
                         <ul>
-                            <li>NISSAN</li><br>
-                            <li>KIA MOTORS</li><br>
-                            <li>JINBEI</li><br>
-                            <li>TOYOTA</li>
+                            <li><p>NISSAN</p></li><br>
+                            <li><p>KIA MOTORS</p></li><br>
+                            <li><p>JINBEI</p></li><br>
+                            <li><p>TOYOTA</p></li>
                         </ul>
                     </div>
                     <br>
                     <div>
                         <h3>Financial Partners</h3>
                         <ul>
-                            <li>• First Bank Plc</li>
-                            <li>• Sterling Bank Plc</li>
-                            <li>• Fidelity Bank Plc</li>
-                            <li>• Guaranteed Trust Bank Plc</li>
-                            <li>• United Bank for Africa</li>
-                            <li>• Finbank Plc</li>
-                            <li>• Union Bank Plc</li>
-                            <li>• Afribank Plc</li>
-                            <li>• Skye Bank</li>
-                            <li>• Unity Bank</li>
-                            <li>• Zenith Bank Plc</li>
-                            <li>• Ecobank Plc</li>
-                            <li>• Keystone Bank</li>
-                            <li>• Mainstreet Bank</li>
-                            <li>• First City Monument Bank Plc</li>
+                            <li><p>• First Bank Plc</p></li>
+                            <li><p>• Sterling Bank Plc</p></li>
+                            <li><p>• Fidelity Bank Plc</p></li>
+                            <li><p>• Guaranteed Trust Bank Plc</p></li>
+                            <li><p>• United Bank for Africa</p></li>
+                            <li><p>• Finbank Plc</p></li>
+                            <li><p>• Union Bank Plc</p></li>
+                            <li><p>• Afribank Plc</p></li>
+                            <li><p>• Skye Bank</p></li>
+                            <li><p>• Unity Bank</p></li>
+                            <li><p>• Zenith Bank Plc</p></li>
+                            <li><p>• Ecobank Plc</p></li>
+                            <li><p>• Keystone Bank</p></li>
+                            <li><p>• Mainstreet Bank</p></li>
+                            <li><p>• First City Monument Bank Plc</p></li>
                         </ul>
                     </div>
                     <br>
