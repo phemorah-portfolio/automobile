@@ -84,7 +84,7 @@
 					<div class="col-md-6 repair">
 						<div>
 								<img src="{{ asset('assets/front_assets/images/contact/map.png') }}" alt="address">
-								<strong>Lekki Phase 1</strong>
+								<strong>Lekki 1</strong>
 								<p>
 										Block 94, Plot 1D, Lekki Phase 1. <br>
 										<b>08072292908, 08073991900</b>
@@ -94,7 +94,7 @@
           <div class="col-md-6 repair">
             <div>
                 <img src="{{ asset('assets/front_assets/images/contact/map.png') }}" alt="address">
-                <strong>Lekki Phase 2</strong>
+                <strong>Lekki 2</strong>
                 <p>
                     Along T.F Kuboye Road, Adjacent Ocean Crest School, Lekki Phase 1, Lagos <br>
                     <b>08072292914</b>

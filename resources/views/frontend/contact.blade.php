@@ -3,13 +3,13 @@
     div.scrollmenu {
         overflow: auto;
         white-space: nowrap;
-    } 
+    }
     div.scrollmenu ul {
         display: flex;
-        background-color: #5f5a8a; 
+        background-color: #5f5a8a;
     }
     div.scrollmenu ul li {
-        background-color: #5f5a8a; 
+        background-color: #5f5a8a;
     }
     div.scrollmenu a {
         display: inline-block;
@@ -25,19 +25,19 @@
 
     @extends('frontend.layouts.front_template')
 
-    @section('content')	
-    
+    @section('content')
+
     <section>
-        <div class="top-banner" style=""> 
+        <div class="top-banner" style="">
             <h2>Contact Us</h2>
         </div>
     </section>
-    
-    <!-- Main Contents --> 
+
+    <!-- Main Contents -->
     <div class="contact-address">
         <div class="row">
-            <div class="col-md-5 contact-box" style="padding-right:0;"> 
-                <div class="scrollmenu">    
+            <div class="col-md-5 contact-box" style="padding-right:0;">
+                <div class="scrollmenu">
                     <ul id="contact-menu">
                         <li>
                             <a href="#alaka">Head Office</a>
@@ -55,10 +55,10 @@
                             <a href="#ph">Port Harcourt</a>
                         </li>
                         <li>
-                            <a href="#lekki1">Lekki Phase 1</a>
+                            <a href="#lekki1">Lekki 1</a>
                         </li>
                         <li>
-                            <a href="#lekki2">Lekki Phase 2</a>
+                            <a href="#lekki2">Lekki 2</a>
                         </li>
                         <li>
                             <a href="#ilorin">Ilorin Branch</a>
@@ -67,7 +67,7 @@
                             <a href="#festac">Festac Branch</a>
                         </li>
                     </ul>
-                </div>  
+                </div>
 
                 <!-- Alaka -->
                 <div id="alaka" class="contact container">
@@ -75,7 +75,7 @@
                     <ul>
                         <li>
                             <img src="{{ asset('assets/front_assets/images/contact/map.png') }}" alt="address">
-                        </li> 
+                        </li>
                         <li>
                             15, Alhaji Tokan Street, Alaka Estate, Funsho Williams Drive, Surulere Lagos.
                             <!-- Email: info@lanreshittu.com -->
@@ -83,7 +83,7 @@
                     </ul>
                     <h4>Phone</h4>
                     <ul>
-                        <li> 
+                        <li>
                             <img src="{{ asset('assets/front_assets/images/contact/phone.png') }}" alt="phone">
                         </li>
                         <li>
@@ -91,7 +91,7 @@
                         </li>
                     </ul>
                     <h4>Sales Hours</h4>
-                    <ul>  
+                    <ul>
                         <li>
                             <img src="{{ asset('assets/front_assets/images/contact/hours.png') }}" alt="time hours">
                         </li>
@@ -101,7 +101,7 @@
                             <strong>Sunday:</strong> Closed
                         </li>
                     </ul>
-                </div>                         
+                </div>
 
                 <!-- Truck Center-->
                 <div id="tc" class="contact container">
@@ -116,7 +116,7 @@
                     </ul>
                     <h4>Phone</h4>
                     <ul>
-                        <li> 
+                        <li>
                             <img src="{{ asset('assets/front_assets/images/contact/phone.png') }}" alt="phone">
                         </li>
                         <li>
@@ -124,7 +124,7 @@
                         </li>
                     </ul>
                     <h4>Sales Hours</h4>
-                    <ul>  
+                    <ul>
                         <li>
                             <img src="{{ asset('assets/front_assets/images/contact/hours.png') }}" alt="time hours">
                         </li>
@@ -134,7 +134,7 @@
                             <strong>Sunday:</strong> Closed
                         </li>
                     </ul>
-                </div>        
+                </div>
 
                 <!-- Onianu -->
                 <div id="onipanu" class="contact container">
@@ -149,7 +149,7 @@
                     </ul>
                     <h4>Phone</h4>
                     <ul>
-                        <li> 
+                        <li>
                             <img src="{{ asset('assets/front_assets/images/contact/phone.png') }}" alt="phone">
                         </li>
                         <li>
@@ -157,7 +157,7 @@
                         </li>
                     </ul>
                     <h4>Sales Hours</h4>
-                    <ul>  
+                    <ul>
                         <li>
                             <img src="{{ asset('assets/front_assets/images/contact/hours.png') }}" alt="time hours">
                         </li>
@@ -167,7 +167,7 @@
                             <strong>Sunday:</strong> Closed
                         </li>
                     </ul>
-                </div>               
+                </div>
 
                 <!-- Abuja -->
                 <div id="abuja" class="contact container">
@@ -182,7 +182,7 @@
                     </ul>
                     <h4>Phone</h4>
                     <ul>
-                        <li> 
+                        <li>
                             <img src="{{ asset('assets/front_assets/images/contact/phone.png') }}" alt="phone">
                         </li>
                         <li>
@@ -190,7 +190,7 @@
                         </li>
                     </ul>
                     <h4>Sales Hours</h4>
-                    <ul>  
+                    <ul>
                         <li>
                             <img src="{{ asset('assets/front_assets/images/contact/hours.png') }}" alt="time hours">
                         </li>
@@ -215,7 +215,7 @@
                     </ul>
                     <h4>Phone</h4>
                     <ul>
-                        <li> 
+                        <li>
                             <img src="{{ asset('assets/front_assets/images/contact/phone.png') }}" alt="phone">
                         </li>
                         <li>
@@ -223,7 +223,7 @@
                         </li>
                     </ul>
                     <h4>Sales Hours</h4>
-                    <ul>  
+                    <ul>
                         <li>
                             <img src="{{ asset('assets/front_assets/images/contact/hours.png') }}" alt="time hours">
                         </li>
@@ -233,9 +233,9 @@
                             <strong>Sunday:</strong> Closed
                         </li>
                     </ul>
-                </div>                          
+                </div>
 
-                <!-- Lekki Phase 1-->
+                <!-- Lekki 1-->
                 <div id="lekki1" class="contact container">
                     <h4>Address</h4>
                     <ul>
@@ -248,7 +248,7 @@
                     </ul>
                     <h4>Phone</h4>
                     <ul>
-                        <li> 
+                        <li>
                             <img src="{{ asset('assets/front_assets/images/contact/phone.png') }}" alt="phone">
                         </li>
                         <li>
@@ -256,7 +256,7 @@
                         </li>
                     </ul>
                     <h4>Sales Hours</h4>
-                    <ul>  
+                    <ul>
                         <li>
                             <img src="{{ asset('assets/front_assets/images/contact/hours.png') }}" alt="time hours">
                         </li>
@@ -266,9 +266,9 @@
                             <strong>Sunday:</strong> Closed
                         </li>
                     </ul>
-                </div>               
-                
-                <!-- Lekki Phase 2 -->
+                </div>
+
+                <!-- Lekki 2 -->
                 <div id="lekki2" class="contact container">
                     <h4>Address</h4>
                     <ul>
@@ -281,7 +281,7 @@
                     </ul>
                     <h4>Phone</h4>
                     <ul>
-                        <li> 
+                        <li>
                             <img src="{{ asset('assets/front_assets/images/contact/phone.png') }}" alt="phone">
                         </li>
                         <li>
@@ -289,7 +289,7 @@
                         </li>
                     </ul>
                     <h4>Sales Hours</h4>
-                    <ul>  
+                    <ul>
                         <li>
                             <img src="{{ asset('assets/front_assets/images/contact/hours.png') }}" alt="time hours">
                         </li>
@@ -299,7 +299,7 @@
                             <strong>Sunday:</strong> Closed
                         </li>
                     </ul>
-                </div>               
+                </div>
 
                 <!-- Ilorin-->
                 <div id="ilorin" class="contact container">
@@ -314,7 +314,7 @@
                     </ul>
                     <h4>Phone</h4>
                     <ul>
-                        <li> 
+                        <li>
                             <img src="{{ asset('assets/front_assets/images/contact/phone.png') }}" alt="phone">
                         </li>
                         <li>
@@ -322,7 +322,7 @@
                         </li>
                     </ul>
                     <h4>Sales Hours</h4>
-                    <ul>  
+                    <ul>
                         <li>
                             <img src="{{ asset('assets/front_assets/images/contact/hours.png') }}" alt="time hours">
                         </li>
@@ -332,7 +332,7 @@
                             <strong>Sunday:</strong> Closed
                         </li>
                     </ul>
-                </div>                 
+                </div>
 
                 <!-- Festac-->
                 <div id="festac" class="contact container">
@@ -347,7 +347,7 @@
                     </ul>
                     <h4>Phone</h4>
                     <ul>
-                        <li> 
+                        <li>
                             <img src="{{ asset('assets/front_assets/images/contact/phone.png') }}" alt="phone">
                         </li>
                         <li>
@@ -355,7 +355,7 @@
                         </li>
                     </ul>
                     <h4>Sales Hours</h4>
-                    <ul>  
+                    <ul>
                         <li>
                             <img src="{{ asset('assets/front_assets/images/contact/hours.png') }}" alt="time hours">
                         </li>
@@ -365,7 +365,7 @@
                             <strong>Sunday:</strong> Closed
                         </li>
                     </ul>
-                </div>                      
+                </div>
                 <!-- Kano-->
                 <div id="kano" class="contact container">
                     <h4>Address</h4>
@@ -379,15 +379,15 @@
                     </ul>
                     <h4>Phone</h4>
                     <ul>
-                        <li> 
+                        <li>
                             <img src="{{ asset('assets/front_assets/images/contact/phone.png') }}" alt="phone">
                         </li>
                         <li>
-                            08073991886    
+                            08073991886
                         </li>
                     </ul>
                     <h4>Sales Hours</h4>
-                    <ul>  
+                    <ul>
                         <li>
                             <img src="{{ asset('assets/front_assets/images/contact/hours.png') }}" alt="time hours">
                         </li>
@@ -397,11 +397,11 @@
                             <strong>Sunday:</strong> Closed
                         </li>
                     </ul>
-                </div>                      
+                </div>
             </div>
 
-            <div class="col-md-7 contact-form"> 
-                <center><h2>Contact Us</h2></center> <br> 
+            <div class="col-md-7 contact-form">
+                <center><h2>Contact Us</h2></center> <br>
                 <form action="">
                     <div class="form-row">
                             <div class="form-group col-md-4">
@@ -420,16 +420,16 @@
                     </div>
                 </form>
 
-                <h3>Follow Us</h3>  
+                <h3>Follow Us</h3>
                 <div class="social">
                     <a href="#"><img src="{{ asset('assets/front_assets/images/social/fb.svg') }}" alt=""></a>
                     <a href="#"><img src="{{ asset('assets/front_assets/images/social/ig.svg') }}" alt=""></a>
                     <a href="#"><img src="{{ asset('assets/front_assets/images/social/twitter.svg') }}" alt=""></a>
-                </div>      
-            </div>   
-        </div>         
+                </div>
+            </div>
+        </div>
     </div>
-    <!-- End Main Contents -->      
+    <!-- End Main Contents -->
 
     <script>
         $(function() {
@@ -445,7 +445,7 @@
                 $(this).parent().addClass(activeClass);
                 $tabSelect.val(target);
                 $tabContents.hide();
-                
+
                 $(target).show();
 
                 e.preventDefault();
