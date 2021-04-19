@@ -3,13 +3,13 @@
         .carousel-multi-item-2 .col-md-3 {
         float: left;
         width: 25%;
-        max-width: 100%; } 
+        max-width: 100%; }
     }
 
     .carousel-multi-item-2 .card img {
-        border-radius: 2px; 
+        border-radius: 2px;
     }
-</style> 
+</style>
     <!-- Footer Section -->
 <footer>
 
@@ -20,7 +20,7 @@
                 <li><a href="{{ url('about') }}">About</a></li>
                 <li><a href="{{ url('contact') }}">Contact</a></li>
                 <li><a href="#{{ url('sitemap') }}">Site Map</a></li>
-                <li><a href="#{{ url('login_signup') }}">Login/Signup</a></li>
+                <li><a href="{{ url('login') }}">Login/Signup</a></li>
                 <li><a href="#{{ url('investors') }}">Investors Relations</a></li>
             </ul>
         </div>
@@ -52,7 +52,7 @@
                         08033979829
                     </li>
                 </ul>
-                <ul class="flex-wrap-no-space">                       
+                <ul class="flex-wrap-no-space">
                     <li class="contact-info">
                         <strong>Email:</strong>
                     </li>
@@ -63,7 +63,7 @@
             </div> -->
         </div>
 
-        <div class="col-md-3"> 
+        <div class="col-md-3">
             <strong>News Letter</strong><br>
             Get the latest news and offers from Lanre Shittu Motors
             <form action="" method="POST">
@@ -76,11 +76,11 @@
     <div class="footer-bottom">
         <div class="_container">
             Copyright &#169;2020 Lanre Shittu Motors (Nig) Limited
-        </div>                
+        </div>
     </div>
 </footer>
     <!-- End Footer Section -->
-  
+
 <!-- Partner Carousal -->
 <!-- <script>
     //It is used to get some elements from btn

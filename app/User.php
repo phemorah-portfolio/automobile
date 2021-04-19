@@ -36,4 +36,26 @@ class User extends Authenticatable
     protected $casts = [
         'email_verified_at' => 'datetime',
     ];
+
+    public function roleaccess(){
+      return $this->hasMany('App\RoleAccessPrivilege','role_id','role');
+    }
+
+    // public function employeedetails(){
+    //   return $this->belongsTo('App\Employee','employee_id');
+    // }
+
+    public function role(){
+        return $this->belongsTo('App\UserRole','role');
+    }
+
+    public function employeeinfo(){
+      return $this->belongsTo('App\Employee','employee_id');
+    }
+
+    // Extract username from email
+    public static function customUsername($email){
+      return substr($email, 0, strpos($email, '@'));
+    }
+
 }
